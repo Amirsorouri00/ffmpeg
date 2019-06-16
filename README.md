@@ -6,6 +6,13 @@
 * https://askubuntu.com/questions/999271/ffmpeg-command-for-mpeg-ts-encoding
 * https://ffmpeg.org/ffmpeg-formats.html#Examples-9
 * https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb
+* https://libraries.io/search?keywords=ffmpeg&languages=Python
+
+
+## Projects
+* https://github.com/nyavramov/WEBMARIZER
+* https://github.com/ffplayout/ffplayout-engine
+* https://github.com/escaped/django-video-encoding
 
 ## Tutorial In C
 * http://dranger.com/ffmpeg/tutorial01.html
