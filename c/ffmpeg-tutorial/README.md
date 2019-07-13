@@ -70,3 +70,6 @@ To run a tutorial, first make sure that your ffmpeg installation is on your
 $LD\_LIBRARY\_PATH and then:
 
     bin/tutorial01.out
+
+## Usefull Links
+* https://github.com/mpenkov/ffmpeg-tutorial
